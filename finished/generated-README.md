@@ -1,9 +1,9 @@
-# README Generator
+# Watch That Box!
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
   ## Description
-  command-line app that easily creates README files for projects
+  Click on the different buttons to change the box. Box will be able to grow, turn blue, fade and reset.
      
   ## Table of Contents
   * [Installation](#installation)
@@ -15,11 +15,11 @@
     
   ## Installation
   What is needed to run project/application
-  download or clone GitHub repo
+  none
     
   ## Usage
   How to use application
-  node index.js
+  Click on different buttons to change the box
     
   ## License
   Project is licesened under
@@ -29,7 +29,7 @@
   undefined
   
   ## Tests
-  node index.js
+  none
   
   ## Questions
   Contact Info for any questions
