@@ -11,4 +11,4 @@
 * node index.js to run application from terminal
 
 ## Walkthrough Video
-https://drive.google.com/file/d/175mtDRKiiWwowbXQtF25XWlsAfO5eoX9/view
+* https://drive.google.com/file/d/1unUwMIfLvKollmQFr630a-C7VcAlWNKS/view
